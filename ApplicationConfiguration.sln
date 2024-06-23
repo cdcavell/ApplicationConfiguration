@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationConfiguration", "Source\ApplicationConfiguration.csproj", "{731C1217-975E-40BB-9120-A444F99602D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationConfiguration", "Source\ApplicationConfiguration.csproj", "{41176BD0-C6DA-44EA-A071-2E5A74FBDE28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,10 +18,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{731C1217-975E-40BB-9120-A444F99602D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{731C1217-975E-40BB-9120-A444F99602D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{731C1217-975E-40BB-9120-A444F99602D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{731C1217-975E-40BB-9120-A444F99602D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41176BD0-C6DA-44EA-A071-2E5A74FBDE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41176BD0-C6DA-44EA-A071-2E5A74FBDE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41176BD0-C6DA-44EA-A071-2E5A74FBDE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41176BD0-C6DA-44EA-A071-2E5A74FBDE28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

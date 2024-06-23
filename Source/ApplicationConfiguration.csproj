@@ -10,10 +10,24 @@
     <Description>ApplicationConfiguration is a .Net Core Service utilized to bind ApplicationConfiguration section of configuration
 environment into a custom class for dependency injection.</Description>
     <PackageProjectUrl>https://github.com/cdcavell/ApplicationConfiguration</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdcavell/ApplicationConfiguration</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageTags>.NET 8.0</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>thumbnail.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="https:\github.com\cdcavell\ApplicationConfiguration\blob\main\README.md" />
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\thumbnail.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
