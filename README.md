@@ -1,5 +1,5 @@
 ﻿# ApplicationConfiguration
-## ASP.NET Core 8.0 Service
+## ASP.NET 8.0 Service utilized to bind ApplicationConfiguration section of configuration environment into a custom class for dependency injection
 
 <hr />
 
@@ -9,7 +9,7 @@
 
 <hr />
 
-ApplicationConfiguration is a .Net Core Service utilized to bind ApplicationConfiguration section of configuration
+ApplicationConfiguration is a .Net 8.0 Service utilized to bind ApplicationConfiguration section of configuration
 environment into a custom class for dependency injection.
 
 Target Framework is [ASP.NET Core 8.0](https://dotnet.microsoft.com/download/dotnet/8.0). 
