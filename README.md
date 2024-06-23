@@ -77,16 +77,18 @@ Custom class can now be utilized in dependency injection:
 <hr />
 
 _Authenticate to GitHub Packages:_
-_Replace `USERNAME` with your GitHub User Name_
-_Replace `YOUR_GITHUB_PAT` with your personal access token_
-_Replace `NAMESPACE` with the name of the personal account or organization to which your packages are scoped_
+<br />_Replace `USERNAME` with your GitHub User Name_
+<br />_Replace `YOUR_GITHUB_PAT` with your personal access token_
+<br />_Replace `NAMESPACE` with the name of the personal account or organization to which your packages are scoped_
+
 ```
 > dotnet nuget add source --username USERNAME --password YOUR_GITHUB_PAT --store-password-in-clear-text --name github "https://nuget.pkg.github.com/NAMESPACE/index.json"
 ```
 
 _Publish Package:_ 
-_Replace `PACKAGE` with your NuGet Package Name_
-_Replace `YOUR_GITHUB_PAT` with your personal access token_
+<br />_Replace `PACKAGE` with your NuGet Package Name_
+<br />_Replace `YOUR_GITHUB_PAT` with your personal access token_
+
 ```
 > dotnet nuget push "bin/Release/PACKAGE.nupkg"  --api-key YOUR_GITHUB_PAT --source "github"
 ```
