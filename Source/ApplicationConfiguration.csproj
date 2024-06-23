@@ -17,6 +17,8 @@ environment into a custom class for dependency injection.</Description>
     <PackageTags>.NET 8.0</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>thumbnail.png</PackageIcon>
+    <Authors>CDCavell</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
