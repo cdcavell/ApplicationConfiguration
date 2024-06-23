@@ -5,9 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageId>CDCavell_ApplicationConfiguration</PackageId>
+    <PackageId>CDCavell.ApplicationConfiguration</PackageId>
     <Title>Application Configuration</Title>
-    <Description>ApplicationConfiguration is a .Net Core Service utilized to bind ApplicationConfiguration section of configuration
+    <Description>ApplicationConfiguration is a .Net 8.0 Service utilized to bind ApplicationConfiguration section of configuration
 environment into a custom class for dependency injection.</Description>
     <PackageProjectUrl>https://github.com/cdcavell/ApplicationConfiguration</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdcavell/ApplicationConfiguration</RepositoryUrl>
