@@ -33,10 +33,10 @@ ApplicationConfiguration section to:
 
     var builder = WebApplication.CreateBuilder(args);
 
-    _appSettings = new(builder.Configuration);
-    builder.Services.AddAppSettingsService(options =>
+    _applicationConfiguration = new(builder.Configuration);
+    builder.Services.AddApplicationConfigurationService(options =>
     {
-        options.AppSettings = _appSettings;
+        options.ApplicationConfiguration = _applicationConfiguration;
     });
 ```
 
