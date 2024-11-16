@@ -1,5 +1,5 @@
 ﻿# ApplicationConfiguration
-## ASP.NET 8.0 Service utilized to bind ApplicationConfiguration section of configuration environment into a custom class for dependency injection
+## ASP.NET 9.0 Service utilized to bind ApplicationConfiguration section of configuration environment into a custom class for dependency injection
 
 <hr />
 
@@ -9,10 +9,10 @@
 
 <hr />
 
-ApplicationConfiguration is a .Net 8.0 Service utilized to bind ApplicationConfiguration section of configuration
+ApplicationConfiguration is a .Net 9.0 Service utilized to bind ApplicationConfiguration section of configuration
 environment into a custom class for dependency injection.
 
-Target Framework is [ASP.NET Core 8.0](https://dotnet.microsoft.com/download/dotnet/8.0). 
+Target Framework is [ASP.NET Core 9.0](https://dotnet.microsoft.com/download/dotnet/9.0). 
 Developed and built in a Windows environment utilizing 
 [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/) source-code editor. 
 
