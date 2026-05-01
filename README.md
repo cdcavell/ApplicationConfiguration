@@ -14,7 +14,7 @@ environment into a custom class for dependency injection.
 
 Target Framework is [ASP.NET Core 10.0](https://dotnet.microsoft.com/download/dotnet/10.0). 
 Developed and built in a Windows environment utilizing 
-[Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/) source-code editor. 
+[Visual Studio Community 2026](https://visualstudio.microsoft.com/vs/) source-code editor. 
 
 
 
